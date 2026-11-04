@@ -1,0 +1,9 @@
+Pixel Platformer Basics
+
+Created and released by Yeon Games
+File format: PNG (16x16 tiles, 2x included)
+
+License: Creative Commons Zero v1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This content is free to use for any purpose, including commercial projects.
