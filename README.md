@@ -51,3 +51,22 @@ The project focuses on 2D gameplay, mobile controls, user interface design, and 
 
 ## Author
 Developed by **Zhibek Tangyt**.
+
+## User Interface
+
+The game includes the following interface elements:
+
+- Main Menu with Play and Quit buttons.
+- HUD displaying player information during gameplay.
+- Mobile controls for movement, jumping, and shooting.
+- Pause Menu with Resume, Restart, and Exit buttons.
+
+## Pause System
+
+The Pause Menu allows players to:
+
+- Resume the game and continue playing.
+- Restart the current level.
+- Return to the Main Menu.
+
+When the game is paused, gameplay time stops. 
